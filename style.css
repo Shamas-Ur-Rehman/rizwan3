@@ -1,0 +1,88 @@
+bodY{
+background-color: aquamarine;
+}
+nav{
+    text-decoration: none;
+    background-color: #080f70;
+    padding: 1.5%  25px 1% 60% ;
+    border-radius: 10px 8px 10px 8px;
+    float: atuo;
+    margin-right: 25px;
+    overflow: hidden;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+a:hover{
+    background-color:blue;
+    color: rgb(248, 248, 248);
+    padding: 5px 2px 5px 2px;
+    border-radius: 10px 8px 10px 8px;
+    border-bottom: 2px;
+}
+.pad2{
+    padding: 0px 20px 0px 20px;
+}
+.Div{
+    background-color: aliceblue;
+    width: 25%;
+    height: 700px;
+    margin-top: 5vh;
+    margin-left: 2rem;
+    border-radius: 25px 10px 25px 10px;
+    float: right;
+    flex-direction: column;
+    
+}
+.img{
+    height: 150px;
+    width: 315px;
+    border-radius:25px 10px 25px 10px ;
+}
+.p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px
+    
+}
+#p1:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 20px 15px ;
+    cursor: pointer;
+}
+#p2:hover{
+    background-color: rgb(47, 174, 224);
+    color: white;
+    border-radius: 20px 15px ;
+    cursor: pointer;
+}
+#div2{
+    float: right;
+    margin-left: 11%;
+}
+img{
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    border: 50%;
+}
+
+#h2{
+    color: rgb(5, 5, 99);
+   text-align: center;
+   margin-top: 2%;
+}
+input{
+    border: none;
+    background-color: transparent;
+    padding: 15px 10px 15px 10px;
+    border-bottom: 2px skyblue;
+    color: wheat;
+}
+::placeholder {
+    color: skyblue;
+    font-weight: bold
+}
